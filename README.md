@@ -1,4 +1,5 @@
 # Amurang Front End Web Design
+![main_img01](https://user-images.githubusercontent.com/105832475/190050092-f4ddbaa4-8a31-4ae5-b487-d340b95253bd.jpg)
 
 <!--
 **soej24/soej24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
