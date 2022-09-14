@@ -27,9 +27,9 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
+  <a href="https://amurang03.cafe24.com/"><img src="https://img.shields.io/badge/My%20Homepage-21759B?style=flat&logo=WordPress&logoColor=white"></a>&nbsp
   <a href="https://python-programming-diary.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/healingamu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="https://amurang03.cafe24.com/"><img src="https://img.shields.io/badge/My%20Homepage-21759B?style=flat&logo=WordPress&logoColor=white"></a>
+  <a href="https://www.instagram.com/healingamu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
 </p>
 
 <!--
